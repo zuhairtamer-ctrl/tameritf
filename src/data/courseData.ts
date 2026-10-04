@@ -62,7 +62,7 @@ export const COURSE_UNITS: CourseUnit[] = [
     subtitle: "المفاهيم الجوهرية، الثورة الرقمية، ودور التقنية في رفع الإنتاجية",
     iconName: "MonitorCheck",
     duration: "4 ساعات تدريبية",
-    image: "/images/workstation.jpg",
+    image: "/images/computer-hardware.jpg",
     learningOutcomes: [
       "فهم مفهوم الحاسوب وتطوره التاريخي ودوره في العصر الرقمي الحديث.",
       "استيعاب المزايا التنافسية للحاسوب (السرعة، الدقة، سعة التخزين، والموثوقية).",
